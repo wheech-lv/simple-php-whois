@@ -16,4 +16,4 @@ Requirements:
 -ext-json
   </li>
   <li>    
--write permission</li><ul><br>No composer support yet
+-write permission</li></ul>No composer support yet

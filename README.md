@@ -15,5 +15,8 @@ Requirements:
   <li>
 -ext-json
   </li>
+  <li>
+   -internet access
+   </li>
   <li>    
 -write permission</li></ul>No composer support yet
